@@ -5,4 +5,4 @@
 
 # :muscle: Skills #
 
-<code><img height="30" src="icons/django.svg"></code>
+<img src="icons/django.svg">
