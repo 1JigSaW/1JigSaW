@@ -4,3 +4,5 @@
 ![Jigsaw Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1JigSaW&layout=compact&hide=php&hide_border=true&theme=dark)
 
 # :muscle: Skills #
+
+<code><img height="30" src="icons/django.svg"></code>
