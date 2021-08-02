@@ -1,4 +1,4 @@
-# About me #
+# :bowtie: About me #
 
 # :chart_with_upwards_trend: My stats #
 
