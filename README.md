@@ -1,4 +1,4 @@
-# :bowtie: About me #
+# :boy: About me #
 
 # :chart_with_upwards_trend: My stats #
 
