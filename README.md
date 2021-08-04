@@ -1,4 +1,4 @@
-# :technologist: Technologies I love: #
+# :computer: Technologies I love: #
 
 ### :arrow_right: Artificial intelligence
 ### :arrow_right: Web Development
