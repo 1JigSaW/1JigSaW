@@ -1,8 +1,8 @@
 # :technologist: Technologies I love: #
 
-:arrow_right: Artificial intelligence
-:arrow_right: Web Development
-:arrow_right: Robotics
+### :arrow_right: Artificial intelligence
+### :arrow_right: Web Development
+### :arrow_right: Robotics
 
 # :chart_with_upwards_trend: My stats #
 
