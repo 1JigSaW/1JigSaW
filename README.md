@@ -1,6 +1,6 @@
-# Job
+# :briefcase: Job
 
-### :briefcase: Mail.ru
+### :arrow_forward: Mail.ru
 
 # :computer: Technologies I love: #
 
