@@ -20,13 +20,13 @@
 # :notebook: Courses and books #
 ### Courses ###
 ##### Stepik #####
-1. Программирование на Python (Bioinformatics Institute)
-2. Нейронные сети и компьютерное зрение (Samsung Research Russia Open Education)
-3. Нейронные сети (Bioinformatics Institute)
-4. Основы статистики (Bioinformatics Institute)
-5. Программирование на языке C++ (Computer Science Center (CS центр))
+1. Python Programming (Bioinformatics Institute)
+2. Neural networks and computer vision (Samsung Research Russia Open Education)
+3. Neural networks (Bioinformatics Institute)
+4. Basics of statistics (Bioinformatics Institute)
+5. C++ Programming (Computer Science Center (CS центр))
 ##### Coursera #####
-1. Инновации в промышленности: мехатроника и робототехника
+1. Industrial innovation: mechatronics and robotics
 2. Python для анализа данных
 3. Python for Data Science, AI & Development
 4. How to Win a Data Science Competition: Learn from Top Kagglers
