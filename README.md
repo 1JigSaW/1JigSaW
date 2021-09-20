@@ -54,3 +54,5 @@
 20. Django. Detailed Guide by Hollow Adrian, Kaplan-Moss Jacob
 21. Python Machine Learning By Example: The easiest way to get into machine learning by Yuxi (Hayden) Liu
 22. The Linux Command Line, 2nd Edition: A Complete Introduction by William Shotts 
+23. C Programming Language, 2nd Edition 2nd Edition by Brian W. Kernighan
+24. Start Small, Stay Small. A Developer's Guide to Launching a Startup by Rob Walling
