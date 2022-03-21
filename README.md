@@ -2,6 +2,7 @@
 
 ### :paperclip: Freelance
 ### :paperclip: Mail.ru Group
+### :paperclip: GC RESPECT
 
 # :computer: Technologies I love: #
 
