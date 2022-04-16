@@ -6,9 +6,9 @@
 
 # :computer: Technologies I love: #
 
-### :arrow_right: Artificial intelligence
-### :arrow_right: Web Development
-### :arrow_right: Robotics
+### 📌 Artificial intelligence
+### 📌 Web Development
+### 📌 Robotics
 
 # :chart_with_upwards_trend: My stats #
 
