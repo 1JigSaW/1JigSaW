@@ -1,14 +1,8 @@
-# :briefcase: Job
-
-### :paperclip: Freelance
-### :paperclip: Mail.ru Group
-### :paperclip: GC RESPECT
-
 # :computer: Technologies I love: #
 
 ### 📌 Artificial intelligence
 ### 📌 Web Development
-### 📌 Robotics
+### 📌 Robotics/IoT
 
 # :chart_with_upwards_trend: My stats #
 
