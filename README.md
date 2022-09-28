@@ -1,4 +1,4 @@
-# :computer: Technologies I love: #
+# :computer: Technologies: #
 
 ### 📌 Artificial intelligence
 ### 📌 Web Development
