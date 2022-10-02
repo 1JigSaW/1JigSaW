@@ -8,7 +8,7 @@
 
 ![Jigsaw Stats](https://github-readme-stats.vercel.app/api?username=1JigSaW&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
 ![Jigsaw Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1JigSaW&layout=compact&hide=php&hide_border=true&theme=dark)
-![LeetCode user jigsaw197](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)
+[![LeetCode user jigsaw197](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjigsaw197&logo=leetcode&logoColor=yellow)](https://leetcode.com/jigsaw197/)
 
 # :muscle: Skills #
 
