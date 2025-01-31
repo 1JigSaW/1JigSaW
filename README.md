@@ -1,7 +1,7 @@
 # :computer: Technologies: #
 
-### 📌 Artificial intelligence
-### 📌 Web Development
+### 📌 AI
+### 📌 Web/Mobile
 ### 📌 Robotics/IoT
 
 # :blue_book: Projects #
